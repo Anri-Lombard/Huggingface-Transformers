@@ -1,7 +1,7 @@
 # Hugging Face Transformers Course
 
 ## Course Structure
-1. Transformer Models
+1. [Transformer Models](./Chapter1/)
 2. [Using Hugging Face Transformers](./Chapter2/)
 3. Fine Tuning a Pretrained Model
 4. Sharing Models and Tokenizers
