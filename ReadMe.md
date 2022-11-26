@@ -3,7 +3,7 @@
 ## Course Structure
 1. [Transformer Models](./Chapter1/)
 2. [Using Hugging Face Transformers](./Chapter2/)
-3. Fine Tuning a Pretrained Model
+3. [Fine Tuning a Pretrained Model](./Chapter3/)
 4. Sharing Models and Tokenizers
 5. The Hugging Face Datasets Library
 6. The Hugging Face Tokenizers Library
