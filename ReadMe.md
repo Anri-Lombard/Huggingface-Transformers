@@ -10,7 +10,6 @@
 5. [The Hugging Face Datasets Library](./Chapter5/)
 6. [The Hugging Face Tokenizers Library](./Chapter6/)
 7. [Main NLP Tasks](./Chapter7/)
-8. Building and Sharing Demos
 
 ## References
 - [Hugging Face Transformers Course](https://huggingface.co/course)
