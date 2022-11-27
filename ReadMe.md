@@ -1,5 +1,7 @@
 # Hugging Face Transformers Course
 
+![HuggingFace Transformers](./HuggingFace.png)
+
 ## Course Structure
 1. [Transformer Models](./Chapter1/)
 2. [Using Hugging Face Transformers](./Chapter2/)
